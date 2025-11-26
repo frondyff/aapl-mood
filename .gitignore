@@ -1,0 +1,21 @@
+# --- Python / venv ---
+venv/
+__pycache__/
+*.pyc
+
+# --- Large / raw data: ignore all Excel & CSV by default ---
+*.csv
+*.xlsx
+
+# BUT keep the small data files we actually want in the repo:
+!apple_daily_sentiment.xlsx
+!apple_events.xlsx
+
+# (DO NOT re-allow apple_news_data – it's too big)
+# !apple_news_data.xlsx  <-- leave this commented / removed
+
+# --- Streamlit cache ---
+.streamlit/
+
+# Misc
+.DS_Store
