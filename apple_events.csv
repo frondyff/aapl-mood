@@ -1,0 +1,23 @@
+event_date,event_type,label
+2016-03-21,spring_event,Spring event: iPhone SE / iPad Pro
+2016-06-13,wwdc,WWDC 2016
+2016-09-07,iphone,iPhone 7 / 7 Plus
+2016-10-27,mac,MacBook Pro (hello again)
+2017-06-05,wwdc,WWDC 2017
+2017-09-12,iphone,iPhone X / 8
+2018-03-27,spring_event,Education event (Chicago)
+2018-06-04,wwdc,WWDC 2018
+2018-09-12,iphone,iPhone XS / XR
+2018-10-30,mac,Mac & iPad Pro
+2019-03-25,services,"Services event (TV+, News+)"
+2019-06-03,wwdc,WWDC 2019
+2019-09-10,iphone,iPhone 11 / 11 Pro
+2020-06-22,wwdc,WWDC 2020 (online)
+2020-10-13,iphone,iPhone 12 / 12 Pro
+2021-06-07,wwdc,WWDC 2021 (online)
+2021-09-14,iphone,iPhone 13 / 13 Pro
+2022-03-08,spring_event,Peek Performance spring event
+2022-06-06,wwdc,WWDC 2022
+2022-09-07,iphone,iPhone 14 / 14 Pro
+2023-06-05,wwdc,WWDC 2023
+2023-09-12,iphone,iPhone 15 / 15 Pro
